@@ -18,8 +18,8 @@ const AppContent = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <SessionTimeoutWarning />
       <BrowserRouter>
+        <SessionTimeoutWarning />
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/unauthorized" element={<Unauthorized />} />
