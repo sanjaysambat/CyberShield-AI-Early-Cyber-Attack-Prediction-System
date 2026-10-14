@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:102B46,75:145A72,100:26D0CE&height=250&section=header&text=CYBER%20Security%20AI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=EARLY%20CYBER%20ATTACK%20PREDICTION%20SYSTEM&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Cyber Sentinel AI — Early Cyber Attack Prediction System" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:102B46,75:145A72,100:26D0CE&height=250&section=header&text=CYBER%20SECURITY%20AI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=EARLY%20CYBER%20ATTACK%20PREDICTION%20SYSTEM&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Cyber Sentinel AI — Early Cyber Attack Prediction System" />
 
 ### 🛡️ Predict Earlier. Investigate Smarter. Defend Proactively.
 
